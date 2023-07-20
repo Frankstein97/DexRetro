@@ -1,4 +1,3 @@
 # DexRetro
-Este proyecto fue copiado al proyecto libre de:
-https://github.com/yeetus-skeetus/dvd-screensaver-customizable
-EmuladorDVD
+Proyecto creado a partir del codigo de otros proyectos.
+Siguiente desafio: Como cambiar el color de las letras del logo cada vez que rebota
